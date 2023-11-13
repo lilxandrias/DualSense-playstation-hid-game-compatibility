@@ -23,12 +23,12 @@ I use these wine builds with Lutris, proton builds with Steam.
 
 # DualSense Lutris Compatibility
 
-| Game                 | Compatibility | Vibration | Connection | Initial Release Date | Notes                           |
-| -------------------- | ------------- | --------- | ---------- | -------------------- | ------------------------------- |
-| TEKKEN 7             | ✅             | ✅         | Wired/BT   | 18. February 2015    | Displays Xbox controller icons. |
-| Colin McRae Rally 04 | ✅             | ❌         | Wired/BT   | 2. April 2004        | Works as intended.              |
-|                      |               |           |            |                      |                                 |
-|                      |               |           |            |                      |                                 |
-|                      |               |           |            |                      | #                               |
+| Game                          | Compatibility | Vibration | PlayStation® Icons | Connection | Initial Release Date | Notes                |
+| ----------------------------- | ------------- | --------- | ------------------ | ---------- | -------------------- | -------------------- |
+| TEKKEN 7                      | ✅             | ✅         | ❌                  | Wired/BT   | 18. February 2015    | Working as intended. |
+| Colin McRae Rally 04          | ✅             | ❌         | ❌                  | Wired/BT   | 2. April 2004        | Working as intended. |
+| Tokyo Ghoul: re Call to Exist | ✅             | ✅         | ❌                  | Wired/BT   | 15. November 2019    | W                    |
+|                               |               |           |                    |            |                      |                      |
+|                               |               |           |                    |            |                      |                      |
 
 
