@@ -21,12 +21,12 @@ Gamepad: Sony DualSense CFI-ZCT1W
 Wine/proton builds I usually experiment with: wine-ge-custom, wine-staging, proton-ge-custom,  proton experimental
 I use these wine builds with Lutris, proton builds with Steam.
 
-| Game     | Compatibility | Vibration | Connection | Initial Release Date | Notes                                |
-| -------- | ------------- | --------- | ---------- | -------------------- | ------------------------------------ |
-| TEKKEN 7 | ✅             | ✅         | Wired/BT   | February 18, 2015    | Shows Displays Xbox controller icons |
-|          |               |           |            |                      |                                      |
-|          |               |           |            |                      |                                      |
-|          |               |           |            |                      |                                      |
-|          |               |           |            |                      |                                      |
+| Game                 | Compatibility | Vibration | Connection | Initial Release Date | Notes                           |
+| -------------------- | ------------- | --------- | ---------- | -------------------- | ------------------------------- |
+| TEKKEN 7             | ✅             | ✅         | Wired/BT   | 18. February 2015    | Displays Xbox controller icons. |
+| Colin McRae Rally 04 | ✅             | ❌         | Wired/BT   | 2. April 2004        | Works as intended.              |
+|                      |               |           |            |                      |                                 |
+|                      |               |           |            |                      |                                 |
+|                      |               |           |            |                      | #                               |
 
-# 
+
