@@ -27,8 +27,8 @@ I use these wine builds with Lutris, proton builds with Steam.
 | ----------------------------- | ------------- | --------- | ------------------ | ---------- | -------------------- | -------------------- |
 | TEKKEN 7                      | ✅             | ✅         | ❌                  | Wired/BT   | 18. February 2015    | Working as intended. |
 | Colin McRae Rally 04          | ✅             | ❌         | ❌                  | Wired/BT   | 2. April 2004        | Working as intended. |
-| Tokyo Ghoul: re Call to Exist | ✅             | ✅         | ❌                  | Wired/BT   | 15. November 2019    | W                    |
-|                               |               |           |                    |            |                      |                      |
+| Tokyo Ghoul: re Call to Exist | ✅             | ✅         | ❌                  | Wired/BT   | 15. November 2019    | Working as intended. |
+| Control                       | ✅             | ✅         | ❌                  | Wired/BT   | 27. August 2019      | Working as intended. |
 |                               |               |           |                    |            |                      |                      |
 
 
