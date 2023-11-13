@@ -23,12 +23,13 @@ I use these wine builds with Lutris, proton builds with Steam.
 
 # DualSense Lutris Compatibility
 
-| Game                          | Compatibility | Vibration | PlayStation® Icons | Connection | Initial Release Date | Notes                |
-| ----------------------------- | ------------- | --------- | ------------------ | ---------- | -------------------- | -------------------- |
-| TEKKEN 7                      | ✅             | ✅         | ❌                  | Wired/BT   | 18. February 2015    | Working as intended. |
-| Colin McRae Rally 04          | ✅             | ❌         | ❌                  | Wired/BT   | 2. April 2004        | Working as intended. |
-| Tokyo Ghoul: re Call to Exist | ✅             | ✅         | ❌                  | Wired/BT   | 15. November 2019    | Working as intended. |
-| Control                       | ✅             | ✅         | ❌                  | Wired/BT   | 27. August 2019      | Working as intended. |
-| Dark Souls III                | ✅             | ✅         | ❌                  | Wired/BT   | 24. March 2016       | Working as intended. |
+| Game                          | Compatibility | Vibration | PlayStation® Icons | Connection | Initial Release Date | Notes                                                          |
+| ----------------------------- | ------------- | --------- | ------------------ | ---------- | -------------------- | -------------------------------------------------------------- |
+| TEKKEN 7                      | ✅             | ✅         | ❌                  | Wired/BT   | 18. February 2015    | Working as intended.                                           |
+| Colin McRae Rally 04          | ✅             | ❌         | ❌                  | Wired/BT   | 2. April 2004        | Working as intended.                                           |
+| Tokyo Ghoul: re Call to Exist | ✅             | ✅         | ❌                  | Wired/BT   | 15. November 2019    | Working as intended.                                           |
+| Control                       | ✅             | ✅         | ❌                  | Wired/BT   | 27. August 2019      | Working as intended.                                           |
+| Dark Souls III                | ✅             | ✅         | ❌                  | Wired/BT   | 24. March 2016       | Working as intended.                                           |
+| Grand Theft Auto V            | ✅             | ✅         | ❌                  | Wired/BT   | 17. September 2013   | Crashes the game for some reason when touchpad button pressed. |
 
 
