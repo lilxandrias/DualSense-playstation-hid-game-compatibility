@@ -21,6 +21,8 @@ Gamepad: Sony DualSense CFI-ZCT1W
 Wine/proton builds I usually experiment with: wine-ge-custom, wine-staging, proton-ge-custom,  proton experimental
 I use these wine builds with Lutris, proton builds with Steam.
 
+# DualSense Lutris Compatibility
+
 | Game                 | Compatibility | Vibration | Connection | Initial Release Date | Notes                           |
 | -------------------- | ------------- | --------- | ---------- | -------------------- | ------------------------------- |
 | TEKKEN 7             | ✅             | ✅         | Wired/BT   | 18. February 2015    | Displays Xbox controller icons. |
