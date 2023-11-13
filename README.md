@@ -29,6 +29,6 @@ I use these wine builds with Lutris, proton builds with Steam.
 | Colin McRae Rally 04          | ✅             | ❌         | ❌                  | Wired/BT   | 2. April 2004        | Working as intended. |
 | Tokyo Ghoul: re Call to Exist | ✅             | ✅         | ❌                  | Wired/BT   | 15. November 2019    | Working as intended. |
 | Control                       | ✅             | ✅         | ❌                  | Wired/BT   | 27. August 2019      | Working as intended. |
-| Dark Souls III                | ✅             | ✅         | ❌                  | Wired/BT   | 24. March 2016       |                      |
+| Dark Souls III                | ✅             | ✅         | ❌                  | Wired/BT   | 24. March 2016       | Working as intended. |
 
 
